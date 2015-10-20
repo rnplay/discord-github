@@ -1,0 +1,19 @@
+{
+  "name": "discord-github",
+  "version": "0.0.1",
+  "description": "Post github commits to Discord",
+  "main": "server.js",
+  "author": "Joshua Sierles <joshua@diluvia.net> (https://github.com/jsierles)",
+  "files": [
+    "server.js",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rnplay/discord-github.git"
+  },
+  "dependencies": {
+    "discord.js": "^3.8.3",
+    "lodash": "^3.10.1"
+  }
+}

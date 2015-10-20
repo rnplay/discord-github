@@ -1,0 +1,18 @@
+{
+  "auth": {
+    "username": "github@diluvia.net",
+    "password": "hidden"
+  },
+  "repos": [
+    {
+      "prefix": "reploy",
+      "server": "reploy",
+      "channel": "general"
+    },
+    {
+      "prefix": "rnplay",
+      "server": "reactiflux",
+      "channel": "rnplay"
+    }
+  ]
+}
